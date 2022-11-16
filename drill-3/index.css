@@ -1,0 +1,48 @@
+.div1{
+    padding: 25px;
+    background-color: #D8D8D8;
+    box-sizing: border-box;
+}
+.square{
+    height: 50px;
+    width: 50px;
+    background-color: skyblue;
+    
+    
+}
+.text{
+    background-color:aliceblue;
+    padding: 30px;
+}
+.stripe{
+     height: 25vh;
+}
+.bluediv{
+    background-color: skyblue; 
+}
+.greendiv{
+
+    background-color:aqua;
+}
+.grassdiv{
+   
+    background-color:yellowgreen;
+}
+.yellowdiv{
+      
+    background-color:yellow 
+}
+.question{
+   position: fixed;
+  right: 10px;
+  bottom: 10px; 
+}
+.question button{
+      height: 60px;
+  width: 60px;
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  font-size: 30px;
+}

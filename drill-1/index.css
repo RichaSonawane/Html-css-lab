@@ -1,0 +1,24 @@
+header {
+  background-color: black;
+  height: 100px;
+}
+main {
+  display: flex;
+}
+.main1 {
+  background-color: rgb(230, 190, 129);
+  display: flex;
+  flex-direction: column;
+  width: 100px;
+  height: 60px;
+}
+.mainbody {
+  background-color: rgb(169, 195, 217);
+  width: 1200px;
+  height: 50px;
+}
+.mainfooter {
+  background-color: black;
+  width: 1200px;
+  height: 10px;
+}
